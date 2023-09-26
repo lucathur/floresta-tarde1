@@ -1,0 +1,25 @@
+body{
+    background-image: url("img/fundo-floresta.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+
+}
+
+div{
+    padding-left: 10px;
+    padding: 10px 10px ;
+    width:800px;
+    background-color: white;
+    border: auto;
+    text-align: center;
+    margin: 20px auto;
+}
+.paragrafotop{
+    font-size: 18px;
+    text-align: center;
+}
+p{
+    padding-left: 35px;
+    padding-right: 35px;
+    text-align: justify;
+}
